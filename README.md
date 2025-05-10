@@ -4,12 +4,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/lucas-nunes-670301179/)
 
-
+<div style = "justify-content: center;"> 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnunes147&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnunes147&layout=compact)
 
-
+</div>
 
 ## Tecnologias que utilizo
 
